@@ -116,7 +116,7 @@ int main() {
 	printf("\n---------------------------------------\nAlpha: %.2f\nBeta: %.2f\nME Error: %.2f\nMSE Error: %.2f\nRMSE Error: %.2f\n", alpha, beta, Me, Mse, Rmse);
 	//Print results to file
 	FILE *ofp;
-	ofp = fopen("MiTP_zad_1.2_wyniki.txt", "w");
+	ofp = fopen("Results_DRG.txt", "w");
 	if (ofp == NULL) {
 		printf("Error in writing to a file!");
 		exit(1);

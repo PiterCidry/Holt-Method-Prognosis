@@ -15,19 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rafal.c">
+    <ClCompile Include="Data_Randomly_Generated.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Wojtek.c">
+    <ClCompile Include="Data_From_File.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Zad_1.3_Piotr_Gretszel.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Zad_1.2_Piotr_Gretszel.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Zad_1.4_Piotr_Gretszel.c">
+    <ClCompile Include="Monte_Carlo_Simulation.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

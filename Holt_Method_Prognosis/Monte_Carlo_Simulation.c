@@ -167,7 +167,7 @@ int main() {
 	}
 	//Printing the result and saving to file
 	FILE *ofp;
-	ofp = fopen("MiTP_zad_1.4_wyniki.txt", "w");
+	ofp = fopen("Results_MCS.txt", "w");
 	if (ofp == NULL) {
 		printf("Error in writing to a file!");
 		system("PAUSE");
